@@ -1,0 +1,11 @@
+{
+    "clientid": "sb-d7061e41-237a-4652-be7f-11303e408e6a!b78360|aicore!b164",
+    "clientsecret": "28ntvJZYbGEdby5XC460VcifGcs=",
+    "url": "https://new-subaccount-rnxkjg7h.authentication.us10.hana.ondemand.com",
+    "identityzone": "new-subaccount-rnxkjg7h",
+    "identityzoneid": "00e2ef91-146c-4053-afab-11ae68fe998a",
+    "appname": "d7061e41-237a-4652-be7f-11303e408e6a!b78360|aicore!b164",
+    "serviceurls": {
+        "AI_API_URL": "https://api.ai.prod.us-east-1.aws.ml.hana.ondemand.com"
+    }
+}

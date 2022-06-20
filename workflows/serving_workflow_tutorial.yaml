@@ -33,7 +33,7 @@ spec:
         maxReplicas: 5
         containers:
         - name: kfserving-container
-          image: "docker.io/elangokaar/text-clf-serve:0.0.1"
+          image: "docker.io/mithranbala123/serve_scikit:0.0.1"
           ports:
             - containerPort: 9001
               protocol: TCP

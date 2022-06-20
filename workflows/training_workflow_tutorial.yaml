@@ -34,7 +34,7 @@ spec:
             archive:
               none: {}
       container:
-        image: "docker.io/elangokaar/text-clf-train:0.0.1"
+        image: "docker.io/mithranbala123/train:0.0.1"
         imagePullPolicy: Always
         command: ["/bin/sh", "-c"]
         args:
